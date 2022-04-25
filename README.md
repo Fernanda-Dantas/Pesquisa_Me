@@ -1,5 +1,5 @@
 # Pesquisa_Me
- App de Busca utilizando a API da Wikipedia.
+ Neste projeto, construí um APP de Busca utilizando HTML5, Sass, Javascript e a API da Wikipedia.
  
  
  # Pesquisa Me
@@ -11,9 +11,17 @@
  
  # Tecnologias utilizadas
  * HTML
- * CSS
  * SASS
  * Javascript
+ 
+ 
+ # Principais aprendizados
+ * Estruturação do projeto
+ * Construção do HTML
+ * Adição das bibliotecas de fontes e ícones ao projeto
+ * Estilização com o SASS
+ * Desenvolvimento das funcionalidades com Javascript
+ * Debugging de alguns problemas
  
  
  # Referências

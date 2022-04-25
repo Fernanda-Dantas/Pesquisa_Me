@@ -66,7 +66,7 @@ export const clearStatsLine = () => {
 export const setStatsLine = (numberOfResults) => {
   const statsLine = document.getElementById("stats");
   if(numberOfResults) {
-    statsLine.textContent = `${numberOfResults} resultados de pesquisa.`;
+    statsLine.textContent = `${numberOfResults} resultados de pesquisa`;
   } else {
     statsLine.textContent = "Nenhum resultado encontrado";
   }

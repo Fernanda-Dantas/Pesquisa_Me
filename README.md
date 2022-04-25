@@ -1,5 +1,6 @@
 # Pesquisa_Me
  Neste projeto, construí um APP de Busca utilizando HTML5, Sass, Javascript e a API da Wikipedia.
+ O design da página é 100% responsivo.
  
  
  # Pesquisa Me
@@ -19,6 +20,7 @@
  * Estruturação do projeto
  * Construção do HTML
  * Adição das bibliotecas de fontes e ícones ao projeto
+ * Adição de media queries para uma melhor responsividade da página
  * Estilização com o SASS
  * Desenvolvimento das funcionalidades com Javascript
  * Debugging de alguns problemas
